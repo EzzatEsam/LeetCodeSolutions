@@ -1,4 +1,3 @@
-
 func removeNthFromEnd(head *ListNode, n int) *ListNode {
 	oldHead := head
 	length := 0
