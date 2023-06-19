@@ -60,4 +60,3 @@ func continueSearch(board [][]byte,visitedPoints [][]bool ,startPoint point ,wor
 	visitedPoints[startPoint.x][startPoint.y] = false
 	return false
 }
-
